@@ -1,4 +1,4 @@
-# Part 2: Getting Settled
+# Getting Settled
 
 **Courses and Schedule**
 
