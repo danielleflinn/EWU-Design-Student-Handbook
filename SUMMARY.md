@@ -1,10 +1,10 @@
 # Table of contents
 
 * [EWU-Design-Student-Handbook](README.md)
-* [Welcome](welcome.md)
 
 ## Part 1
 
+* [Welcome](part-1/welcome.md)
 * [Introduction](part-1/introduction.md)
 * [Getting Settled](part-1/getting-settled.md)
 * [Our Community](part-1/our-community.md)
