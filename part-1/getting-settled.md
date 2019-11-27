@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/20191011_173542.jpg)
 
-### **Courses and Schedule**
+### Important Shi...Stuff
 
 The first few classes Design students typically take set the foundation for beginning your journey as a visual designer and communicator.
 
@@ -18,11 +18,11 @@ Then, continuing to build on this foundation, students usually take:
 
 Your faculty advisor will work with you each quarter to help set your class schedule. It is recommended that you look at the course catalog and schedule before meeting with your advisor. Draft a proposed schedule, then talk with them to make sure you did not miss anything important. Remember, professors have a lot going on especially during enrollment periods. You are encouraged to meet with your advisor early and often.
 
-### **Learning environment**
+### What!? No Tests?
 
 EWU values student learning and success. Because much of the design in the “Real World” are projects, a lot of the work assigned in the Design program is project-based. There are exercises, readings, and occasionally tests and quizzes. But the main work you will be asked to complete will be design-related projects.
 
-### **Do the Work**
+### Get it Done
 
 The EWU design department bases final grades primarily on effort. So DO THE WORK. Work ahead, if you have time, as toward the end of the quarter assignments tend to pile up.
 

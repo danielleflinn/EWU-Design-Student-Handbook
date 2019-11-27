@@ -10,17 +10,17 @@ Milton Glaser, an industry renowned designer, marketer, and business professiona
 
  Design is communicating, and graphic design \(which is visually communicating\) is just one aspect of design. Design is problem-solving, storytelling, entertaining, marketing, advertising, and more.
 
-### **What can I do with this degree?**
+### Fretting About the Future
 
 There are numerous career paths you can pursue with a Design degree. You can be a Graphic Designer, Print Specialist, Marketing Expert, Entrepreneur, Digital Designer, Artist, Teacher, UX Designer, Web Designer, Social Media Designer, Experiential Designer, Event Planner, Set Designer. The sky isn't even the limit!
 
 All of the possibilities with a design degree might seem overwhelming, so we encourage you to use the time you have now to explore the different avenues and aspects of design. Take classes that interest _you_. Talk to people you know and read about designers. Reach out to local experts. Most people are thrilled to talk to someone about their life \(people like talking about themselves\). Visit the EWU Career Center for resources on conducting an informational interview with an industry professional. Part of your education is discovering what you want for your life, and the best way to do this is to observe and experiment with different roles yourself.
 
-### **Tailoring the Degree**
+### Tailoring Your Life
 
 The EWU Design Degree is a fairly general start for your design journey. However, you can tailor the degree to fit your interests and career goals. You will work with your faculty advisor to choose classes to fulfill degree requirements and electives while also building specialized skills in a design area _you_ are interested in.
 
-### **Complementing Majors**
+### Choosing a Side Hustle
 
 If you are interested in declaring a double major or minoring in a subject related to design, consider the following options. Then talk with your design advisor about how a minor or second major can help you reach your career goals. Below is a list of options that complement a design degree well.
 
@@ -45,7 +45,7 @@ If you are interested in declaring a double major or minoring in a subject relat
 \*\*\*\*[**UX Certificate**  
 ](https://www.ewu.edu/cstem/design/ux-certificate/)The User Experience Design Certificate is offered by the design program and is a great option to accompany the design major if you are interested in designing the interfaces of apps or websites, or if you are interested in becoming a front end designer/developer.
 
-### **Getting your tech right**
+### Getting Your Tech Right
 
 Most of the campus computers meet the required technical specifications for design classes. However, if you want to purchase your own computer for Design classes, make sure it meets the following requirements. _\*Chromebooks and other cloud based devices will NOT work.\*_
 
