@@ -38,10 +38,10 @@ There are many organizations and events right here in Spokane that can help you 
 \*\*\*\*[**Spokane Young Professionals**](https://www.spokaneux.com/)  
 ****SYP is a local networking group specifically for young professionals. While not specifically design-oriented, the SYP events are great ways to meet other professionals. Who knows, someone here might need an intern or have a job opening?
 
-![](../.gitbook/assets/journeysindesign.jpg)
-
 \*\*\*\*[**Terrain**](https://www.terrainspokane.com/)  
 ****Terrain is a local art gallery and non-profit that hosts the annual art show Terrain, bi-annual craft fairs Bazaar and Brrzaar, as well as First Friday events throughout the year. EWU Design students and graduates have exhibited work at the Terrain art show and have been accepted to table at Bazaar. Keep an eye out for when the applications open for Terrain events.
+
+![](../.gitbook/assets/journeysindesign.jpg)
 
 ### **Networking Tips**
 
@@ -55,8 +55,6 @@ An elevator pitch is a brief summary of who you are, what you are currently doin
 
 You might feel awkward going to an event as a student. But here is the secret: _Everyone is feeling a little awkward_. Making conversation with people you don’t know is hard. But networking events are great because talking to others you don’t know is expected - in fact, that is why everyone is there. They want to meet people and connect. The simplest way to start a conversation is to introduce yourself and then ask someone what they do for work. You can always have other questions to help build the conversation:
 
-![](../.gitbook/assets/showcase-_page_16.jpg)
-
 * “That’s great, what company do you work for?”
 * “How long have you been there?”
 * “How long have you been doing that?”
@@ -66,6 +64,8 @@ Once you ask the questions, be an active listener. Inquire further about project
 ### **Fueling the Conversation**
 
 Be ready to talk about yourself. Use your elevator pitch and show excitement when you are discussing your own projects and professional goals. Stay mindful of how you are doing throughout the event. Remember it is okay to take breaks; you don’t have to be “on” the whole time. You perform your best when you are relaxed and confident; if you need a social break, take a moment to get a drink of water or visit the refreshment table \(if there is one\). Then when you are refreshed, jump back into “networking mode”. At the end of the event, ask to connect with other attendees on LinkedIn or offer your business card; better yet, get theirs.
+
+![](../.gitbook/assets/showcase-_page_16.jpg)
 
 ### **Campus Opportunities**
 
@@ -96,33 +96,34 @@ There are also plenty of local industry opportunities in and around Spokane. Fol
 
 {% tabs %}
 {% tab title="Agency" %}
-* 14 Four
-* Bahlr Media
-* Chapter and Verse
-* Desautel Hege - DH
-* Gravity Jack
-* Klundt Hosmer
-* Marketing Vision
-* Mojo Labs
-* Seven 2
-* The Woodshop
+* [14Four](https://www.14four.com/)
+* [Bahlr Media](https://bahlr.com/)
+* [Chapter and Verse](https://www.chapterandver.se/)
+* [Desautel Hege - DH](https://www.wearedh.com/)
+* [Gravity Jack](https://gravityjack.com/)
+* [Klundt Hosmer](https://klundthosmer.com/)
+* [Marketing Vision](https://marketvisionads.com/)
+* [Mojo Labs](https://mojo-lab.com/)
+* [Seven2](https://seven2.com/#/)
+* [The Woodshop](https://thewoodshopnw.com/)
 {% endtab %}
 
 {% tab title="In House" %}
-* ENGIE Impact
-* Etailz
-* Itron
-* McKinstry
-* RiskLens
-* SCAFCO Steel Stud Company
+* [ENGIE Impact](https://www.engieimpact.com/)
+* [Etailz](https://www.etailz.com/)
+* [Itron](https://www.itron.com/)
+* [McKinstry](https://www.mckinstry.com/)
+* [RiskLens](https://www.risklens.com/)
+* [SCAFCO Steel Stud Company](https://www.scafco.com/)
 {% endtab %}
 
 {% tab title="Community" %}
-* Future Ada
-* Laboratory
-* Spark Central
-* Spokane Art School
-* Spokane Valley Heritage Museum
+* [Future Ada](https://futureada.org/)
+* [Laboratory](https://laboratoryspokane.com/)
+* [Northwest Museum of Arts and Culture](https://www.northwestmuseum.org/)
+* [Spark Central](https://spark-central.org/)
+* [Spokane Art School](http://spokaneartschool.net/)
+* [Spokane Valley Heritage Museum](http://www.spokanevalleymuseum.com/) 
 {% endtab %}
 {% endtabs %}
 
