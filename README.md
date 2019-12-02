@@ -1,4 +1,4 @@
-# EWU-Design-Student-Handbook
+# EWU Design Student Handbook
 
 ### About this Handbook
 

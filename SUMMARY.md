@@ -1,6 +1,6 @@
 # Table of contents
 
-* [EWU-Design-Student-Handbook](README.md)
+* [EWU Design Student Handbook](README.md)
 
 ## Part 1
 
