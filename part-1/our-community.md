@@ -12,9 +12,12 @@ Your fellow students are excited to learn with you and collaborate on class proj
 
 ![](../.gitbook/assets/design-club.jpg)
 
-### Seriously Do The Freak’n Work
+### Semi-Organized Student Socializing
 
-A great way to meet and collaborate with other design students is to participate in the EWU Design Club. The club meets weekly each quarter and works on different design projects, hosts peer critiques, portfolio workshops, and networking opportunities. The club also facilitates social events for design students typically in the form of Draw Offs and Holiday Parties. Be sure to join the club on Eagle Sync to stay up to date.
+A great way to meet and collaborate with other design students is to participate in the EWU Design Club. The club meets weekly each quarter and works on different design projects, hosts peer critiques, portfolio workshops, and networking opportunities. The club also facilitates social events for design students typically in the form of Draw Offs and Holiday Parties. Be sure to join the club on Eagle Sync to stay up to date. Follow the club on Facebook and Instagram to stay up to date! 
+
+* \*\*\*\*[**Instagram:** @ewu.design](https://www.instagram.com/ewu.design/)
+* \*\*\*\*[**Facebook:** @VCDClub](https://www.facebook.com/VCDClub/)
 
 ### Been There Done That
 
