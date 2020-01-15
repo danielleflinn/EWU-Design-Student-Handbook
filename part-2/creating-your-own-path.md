@@ -111,6 +111,7 @@ There are also plenty of local industry opportunities in and around Spokane. Fol
 {% tab title="In House" %}
 * [ENGIE Impact](https://www.engieimpact.com/)
 * [Etailz](https://www.etailz.com/)
+* [Inlander](https://www.inlander.com/spokane/InternshipsFreelancing/Page)
 * [Itron](https://www.itron.com/)
 * [McKinstry](https://www.mckinstry.com/)
 * [RiskLens](https://www.risklens.com/)
