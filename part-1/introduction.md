@@ -1,5 +1,7 @@
 # Introduction
 
+
+
 ![](../.gitbook/assets/showcase-_page_02.jpg)
 
 ### **What even is Design?**

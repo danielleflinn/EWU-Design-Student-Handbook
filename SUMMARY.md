@@ -18,6 +18,5 @@
 ## Appendix
 
 * [FAQs](appendix/faqs.md)
-* [Student Work](appendix/student-work.md)
 * [Further Reading](appendix/further-reading.md)
 
