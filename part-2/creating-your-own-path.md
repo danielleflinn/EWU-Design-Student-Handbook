@@ -1,6 +1,6 @@
 # Creating Your Own Path
 
-![](../.gitbook/assets/photos.jpg)
+![](../images/gallery.jpg)
 
 Now that you’ve been introduced to the program and you know a bit about what to expect, it is up to you to make it your own. What you do with your time outside of the program is up to you. However, we encourage you to take advantage of the time you have now and start building a professional presence and network to set you up for success after graduation.
 
@@ -8,40 +8,40 @@ Now that you’ve been introduced to the program and you know a bit about what t
 
 There are many organizations and events right here in Spokane that can help you build your professional network. It is a good idea to research each of these organizations, and follow the ones that interest you so you can stay up to date with what is happening in our local community.
 
-\*\*\*\*[**American Advertising Federation Spokane \(AAF Spokane\)**](http://aafspokane.com/)  
-****AAF Spokane is a local chapter of the American Advertising Federation. They host several events and fundraisers throughout the year. Including, the American Advertising Awards, Create, and Collective Campout. They also offer volunteer opportunities and lunch and learn workshops. All of which are great opportunities to get out there and network. In addition to these opportunities, AAF also offers scholarships for college design students and seeks an EWU Student Liaison to serve on their board annually.
+[**American Advertising Federation Spokane \(AAF Spokane\)**](http://aafspokane.com/)  
+AAF Spokane is a local chapter of the American Advertising Federation. They host several events and fundraisers throughout the year. Including, the American Advertising Awards, Create, and Collective Campout. They also offer volunteer opportunities and lunch and learn workshops. All of which are great opportunities to get out there and network. In addition to these opportunities, AAF also offers scholarships for college design students and seeks an EWU Student Liaison to serve on their board annually.
 
-\*\*\*\*[**First Friday**](https://downtownspokane.org/first-friday/)  
-****First Friday is a program organized by the Downtown Spokane Partnership. On the first Friday of every month, local art galleries launch new art exhibits, host live musicians, and local restaurants offer discounts. These are great opportunities to see what the community is up to. Downtown Spokane also hosts a poster contest in the summer to gather designs to use throughout the First Friday season.
+[**First Friday**](https://downtownspokane.org/first-friday/)  
+First Friday is a program organized by the Downtown Spokane Partnership. On the first Friday of every month, local art galleries launch new art exhibits, host live musicians, and local restaurants offer discounts. These are great opportunities to see what the community is up to. Downtown Spokane also hosts a poster contest in the summer to gather designs to use throughout the First Friday season.
 
-\*\*\*\*[**Future Ada**](https://futureada.org/)  
-****Futura Ada hosts technology-centered events and workshops throughout the year. Including Code in the Dark held annually in October. This is a great event to practice your web design skills alongside industry professionals. Futura Ada also offers career mentorships for women and non-binary students.
+[**Future Ada**](https://futureada.org/)  
+Futura Ada hosts technology-centered events and workshops throughout the year. Including Code in the Dark held annually in October. This is a great event to practice your web design skills alongside industry professionals. Futura Ada also offers career mentorships for women and non-binary students.
 
-\*\*\*\*[**She is Vested**](https://www.sheisvested.com/)  
-****Vested is a professional networking group specifically for women entrepreneurs. Vested hosts monthly events to promote professional growth and community connection.
+[**She is Vested**](https://www.sheisvested.com/)  
+Vested is a professional networking group specifically for women entrepreneurs. Vested hosts monthly events to promote professional growth and community connection.
 
-\*\*\*\*[**Spark Central**](https://spark-central.org/)  
-****Spark Central is a community organization and learning space that promotes creativity, innovation, and imagination through education and workshops. Spark Central also offers volunteer and internship opportunities.
+[**Spark Central**](https://spark-central.org/)  
+Spark Central is a community organization and learning space that promotes creativity, innovation, and imagination through education and workshops. Spark Central also offers volunteer and internship opportunities.
 
-\*\*\*\*[**Spokane Arts**](https://spokanearts.org/)  
-****Spokane Arts is a community organization existing to promote art and creativity in the inland northwest. Spokane Arts hosts and supports a variety of creative events throughout Spokane. In addition, they offer artist grants and curate a list of local artist opportunities.
+[**Spokane Arts**](https://spokanearts.org/)  
+Spokane Arts is a community organization existing to promote art and creativity in the inland northwest. Spokane Arts hosts and supports a variety of creative events throughout Spokane. In addition, they offer artist grants and curate a list of local artist opportunities.
 
-\*\*\*\*[**Spokane Art School**](http://spokaneartschool.net/)  
-****SAS organizes community art classes and hosts art centered events, such as the annual Monster Draw in October. They are always looking for volunteers and regularly offer art residencies.
+[**Spokane Art School**](http://spokaneartschool.net/)  
+SAS organizes community art classes and hosts art centered events, such as the annual Monster Draw in October. They are always looking for volunteers and regularly offer art residencies.
 
-\*\*\*\*[**Spokane Print and Publishing Center**](https://www.facebook.com/spokaneprint/)  
-****SPPC is a local print center specializing in letterpress, screen-print, relief printmaking, book-binding, and other creative mediums. SPPC frequently offers classes to further your creative printmaking skills.
+[**Spokane Print and Publishing Center**](https://www.facebook.com/spokaneprint/)  
+SPPC is a local print center specializing in letterpress, screen-print, relief printmaking, book-binding, and other creative mediums. SPPC frequently offers classes to further your creative printmaking skills.
 
-\*\*\*\*[**Spokane UX**](https://www.spokaneux.com/)  
-****Spokane UX is a local Meetup group with monthly meetings discussing the latest UX trends and local opportunities. These events are a great opportunity to make connections and practice discussing industry trends with other design professionals.
+[**Spokane UX**](https://www.spokaneux.com/)  
+Spokane UX is a local Meetup group with monthly meetings discussing the latest UX trends and local opportunities. These events are a great opportunity to make connections and practice discussing industry trends with other design professionals.
 
-\*\*\*\*[**Spokane Young Professionals**](https://www.spokaneux.com/)  
-****SYP is a local networking group specifically for young professionals. While not specifically design-oriented, the SYP events are great ways to meet other professionals. Who knows, someone here might need an intern or have a job opening?
+[**Spokane Young Professionals**](https://www.spokaneux.com/)  
+SYP is a local networking group specifically for young professionals. While not specifically design-oriented, the SYP events are great ways to meet other professionals. Who knows, someone here might need an intern or have a job opening?
 
-\*\*\*\*[**Terrain**](https://www.terrainspokane.com/)  
-****Terrain is a local art gallery and non-profit that hosts the annual art show Terrain, bi-annual craft fairs Bazaar and Brrzaar, as well as First Friday events throughout the year. EWU Design students and graduates have exhibited work at the Terrain art show and have been accepted to table at Bazaar. Keep an eye out for when the applications open for Terrain events.
+[**Terrain**](https://www.terrainspokane.com/)  
+Terrain is a local art gallery and non-profit that hosts the annual art show Terrain, bi-annual craft fairs Bazaar and Brrzaar, as well as First Friday events throughout the year. EWU Design students and graduates have exhibited work at the Terrain art show and have been accepted to table at Bazaar. Keep an eye out for when the applications open for Terrain events.
 
-![](../.gitbook/assets/journeysindesign.jpg)
+![](../images/journeysindesign.jpg)
 
 ### Getting Out
 
@@ -65,7 +65,7 @@ Once you ask the questions, be an active listener. Inquire further about project
 
 Be ready to talk about yourself. Use your elevator pitch and show excitement when you are discussing your own projects and professional goals. Stay mindful of how you are doing throughout the event. Remember it is okay to take breaks; you don’t have to be “on” the whole time. You perform your best when you are relaxed and confident; if you need a social break, take a moment to get a drink of water or visit the refreshment table \(if there is one\). Then when you are refreshed, jump back into “networking mode”. At the end of the event, ask to connect with other attendees on LinkedIn or offer your business card; better yet, get theirs.
 
-![](../.gitbook/assets/showcase-_page_16.jpg)
+![](../images/showcase2.jpg)
 
 ### \#Fearless on Campus
 

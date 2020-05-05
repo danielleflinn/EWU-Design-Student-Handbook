@@ -1,6 +1,6 @@
 # Our Community
 
-![](../.gitbook/assets/group.jpg)
+![](../images/emergent.jpg)
 
 ### **We Are On Point**
 
@@ -10,14 +10,14 @@ The Professors and Advisors care about _you_ and want you to take every learning
 
 Your fellow students are excited to learn with you and collaborate on class projects and assignments. Some of the most inspiring ideas come from conversations with others who have different perspectives and views on your ideas. Upperclassmen are eager to assist with lower-division classes and answer any questions. Don’t be afraid to seek out peer opinions.
 
-![](../.gitbook/assets/design-club.jpg)
+![](../images/club.jpg)
 
 ### Semi-Organized Student Socializing
 
 A great way to meet and collaborate with other design students is to participate in the EWU Design Club. The club meets weekly each quarter and works on different design projects, hosts peer critiques, portfolio workshops, and networking opportunities. The club also facilitates social events for design students typically in the form of Draw Offs and Holiday Parties. Be sure to join the club on Eagle Sync to stay up to date. Follow the club on Facebook and Instagram to stay up to date! 
 
-* \*\*\*\*[**Instagram:** @ewu.design](https://www.instagram.com/ewu.design/)
-* \*\*\*\*[**Facebook:** @VCDClub](https://www.facebook.com/VCDClub/)
+* [**Instagram:** @ewu.design](https://www.instagram.com/ewu.design/)
+* [**Facebook:** @VCDClub](https://www.facebook.com/VCDClub/)
 
 ### Been There Done That
 

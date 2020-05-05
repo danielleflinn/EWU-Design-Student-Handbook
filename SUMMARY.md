@@ -13,7 +13,7 @@
 
 * [Succeeding](part-2/succeeding.md)
 * [Creating Your Own Path](part-2/creating-your-own-path.md)
-* [Gaining Experience](part-2/untitled.md)
+* [Gaining Experience](part-2/gaining-experience.md)
 
 ## Appendix
 

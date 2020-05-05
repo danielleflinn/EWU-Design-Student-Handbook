@@ -1,6 +1,6 @@
 # Getting Settled
 
-![](../.gitbook/assets/20191011_173542.jpg)
+![](../images/drawing.jpg)
 
 ### Important Shi...Stuff
 

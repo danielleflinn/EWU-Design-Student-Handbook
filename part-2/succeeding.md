@@ -1,6 +1,6 @@
 # Succeeding
 
-![](../.gitbook/assets/showcase-_page_06.jpg)
+![](../images/showcase.jpg)
 
 Succeeding in the design program isn’t about getting an “A” or about having the coolest project in the class, it’s about YOU. What are _you_ learning? Which of _your_ goals are you reaching? Are _you_ taking ownership and pride in the work _you_ are doing? With that said, here are some quick tips on how you can meet these goals.
 

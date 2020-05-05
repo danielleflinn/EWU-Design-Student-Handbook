@@ -2,7 +2,7 @@
 
 
 
-![](../.gitbook/assets/showcase-_page_02.jpg)
+![](../images/tshirts.jpg)
 
 ### **What even is Design?**
 
@@ -26,25 +26,25 @@ The EWU Design Degree is a fairly general start for your design journey. However
 
 If you are interested in declaring a double major or minoring in a subject related to design, consider the following options. Then talk with your design advisor about how a minor or second major can help you reach your career goals. Below is a list of options that complement a design degree well.
 
-\*\*\*\*[**Marketing**  
+[**Marketing**  
 ](https://www.ewu.edu/cob/finance-marketing/)A marketing degree can be a great option for developing design skills related to marketing. This degree can help you understand where your design will go and how they will be used after you finalize them.
 
-\*\*\*\*[**Psychology**  
+[**Psychology**  
 ](https://www.ewu.edu/css/psychology/)Psychology is a great option to study along with design, as in the design field there is a lot of overlap with interpreting how your audience will respond to a design. The visual information processing and cognition classes would be extra beneficial.
 
-\*\*\*\*[**Communications Studies**  
+[**Communications Studies**  
 ](https://www.ewu.edu/css/communication-studies/)Communication is a key skill for any field. A communications degree will help you gain organization and communication skills that will serve as a key asset throughout your professional career.
 
-\*\*\*\*[**Technical Communication**  
+[**Technical Communication**  
 ](https://www.ewu.edu/cale/english/technical-communication/)A Technical Communication degree is a great compliment for a design major as it focuses more on readability, textual information design, and understanding how language structure affects and interacts with design decisions.
 
-\*\*\*\*[**Business/Entrepreneurship**  
+[**Business/Entrepreneurship**  
 ](https://www.ewu.edu/cob/management/entrepreneurship/)It would be hard for the field of design to exist without business. If you are interested in starting your own design firm or freelancing, this degree would be helpful for you to gain the skills necessary to make your dream a reality.
 
-\*\*\*\*[**Computer Science**  
+[**Computer Science**  
 ](https://www.ewu.edu/cstem/computer-science/)For those more interested in the design and technology, a computer science degree would complement a design degree well and set you apart from the competition.
 
-\*\*\*\*[**UX Certificate**  
+[**UX Certificate**  
 ](https://www.ewu.edu/cstem/design/ux-certificate/)The User Experience Design Certificate is offered by the design program and is a great option to accompany the design major if you are interested in designing the interfaces of apps or websites, or if you are interested in becoming a front end designer/developer.
 
 ### Getting Your Tech Right
