@@ -11,7 +11,7 @@ description: >-
 
 {% page-ref page="../part-1/introduction.md" %}
 
-|  |
+| Sections |
 | :--- |
 | What is Design? |
 | What can I do with this degree? |
@@ -21,7 +21,7 @@ description: >-
 
 {% page-ref page="../part-1/getting-settled.md" %}
 
-|  |
+| Sections |
 | :--- |
 | Courses and Schedule |
 | Learning environment |
@@ -30,7 +30,7 @@ description: >-
 
 {% page-ref page="../part-1/our-community.md" %}
 
-|  |
+| Sections |
 | :--- |
 | Professors / Advisors |
 | Students / Peers |
@@ -41,7 +41,7 @@ description: >-
 
 {% page-ref page="../part-2/succeeding.md" %}
 
-|  |
+| Sections |
 | :--- |
 | Do the Work |
 | Iterate |
@@ -53,20 +53,18 @@ description: >-
 
 {% page-ref page="../part-2/creating-your-own-path.md" %}
 
-|  |  |
-| :--- | :--- |
-| Networking Opportunities |  |
-| Networking Tips |  |
-| Elevator Pitch |  |
-| Starting a Conversation |  |
-| Fueling the Conversation |  |
-| Campus Opportunities |  |
-| Local Industry Opportunities |  |
-| Away Opportunities |  |
+| Sections |
+| :--- |
+| Networking Opportunities |
+| Networking Tips |
+| Elevator Pitch |
+| Starting a Conversation |
+| Fueling the Conversation |
+| Campus Opportunities |
+| Local Industry Opportunities |
+| Away Opportunities |
 
-{% page-ref page="../part-2/untitled.md" %}
-
-|  |
+| Sections |
 | :--- |
 | Determine What You Want |
 | Update Your Portfolio |

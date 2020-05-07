@@ -1,10 +1,10 @@
 # Creating Your Own Path
 
-![](../images/gallery.jpg)
+![](../.gitbook/assets/gallery.jpg)
 
 Now that you’ve been introduced to the program and you know a bit about what to expect, it is up to you to make it your own. What you do with your time outside of the program is up to you. However, we encourage you to take advantage of the time you have now and start building a professional presence and network to set you up for success after graduation.
 
-### Adulting Events
+## Adulting Events
 
 There are many organizations and events right here in Spokane that can help you build your professional network. It is a good idea to research each of these organizations, and follow the ones that interest you so you can stay up to date with what is happening in our local community.
 
@@ -41,17 +41,17 @@ SYP is a local networking group specifically for young professionals. While not 
 [**Terrain**](https://www.terrainspokane.com/)  
 Terrain is a local art gallery and non-profit that hosts the annual art show Terrain, bi-annual craft fairs Bazaar and Brrzaar, as well as First Friday events throughout the year. EWU Design students and graduates have exhibited work at the Terrain art show and have been accepted to table at Bazaar. Keep an eye out for when the applications open for Terrain events.
 
-![](../images/journeysindesign.jpg)
+![](../.gitbook/assets/journeysindesign%20%281%29.jpg)
 
-### Getting Out
+## Getting Out
 
 Getting there is the hardest part. Set a goal for yourself to attend one event every month, or every 2 weeks, whichever fits your schedule. Then, make sure to go prepared. Take business cards with your contact information, portfolio link, and any professional social media profiles you would like to share. LinkedIn is a great tool to use for connecting with professionals. People can lose business cards or resumes, but a LinkedIn connection can help keep you in the forefront of someone’s mind; especially if you are actively engaging with their content. Take copies of your resume, if relevant to the event. Then prepare for the actual networking part.
 
-### \#Goals
+## \#Goals
 
 An elevator pitch is a brief summary of who you are, what you are currently doing, and what you hope to do in the future. Think about being on an elevator with your favorite designer. How would you describe yourself to them? How would you explain your experiences? And how would you express your hopes for your future? Practice your elevator pitch and get feedback from your advisors and mentors. Revise your pitch based on their feedback. Then practice your pitch until you are confident in your delivery.
 
-### Talking to Strangers
+## Talking to Strangers
 
 You might feel awkward going to an event as a student. But here is the secret: _Everyone is feeling a little awkward_. Making conversation with people you don’t know is hard. But networking events are great because talking to others you don’t know is expected - in fact, that is why everyone is there. They want to meet people and connect. The simplest way to start a conversation is to introduce yourself and then ask someone what they do for work. You can always have other questions to help build the conversation:
 
@@ -61,13 +61,13 @@ You might feel awkward going to an event as a student. But here is the secret: _
 
 Once you ask the questions, be an active listener. Inquire further about projects, activities, and personal hobbies. Show you are interested in connecting with them through your actions and body language. The best connections made are the ones where you discover shared interests and common goals. If you are attending an event that you have access to the attendance list, consider researching attendees to help you build connections and conversation.
 
-### Be Ready to Brag
+## Be Ready to Brag
 
 Be ready to talk about yourself. Use your elevator pitch and show excitement when you are discussing your own projects and professional goals. Stay mindful of how you are doing throughout the event. Remember it is okay to take breaks; you don’t have to be “on” the whole time. You perform your best when you are relaxed and confident; if you need a social break, take a moment to get a drink of water or visit the refreshment table \(if there is one\). Then when you are refreshed, jump back into “networking mode”. At the end of the event, ask to connect with other attendees on LinkedIn or offer your business card; better yet, get theirs.
 
-![](../images/showcase2.jpg)
+![](../.gitbook/assets/showcase2.jpg)
 
-### \#Fearless on Campus
+## \#Fearless on Campus
 
 There are many opportunities to network and gain experience right here on the Eastern Campus. Connect with the EWU Career Center to see current job openings and events. The annual events below are great places to start:
 
@@ -90,7 +90,7 @@ Stay up to date on Handshake for internship and job opportunities on campus that
 * Student Affairs
 * Student Employment
 
-### \#Fearless in Spokane
+## \#Fearless in Spokane
 
 There are also plenty of local industry opportunities in and around Spokane. Follow local creative firms on social media to be the first to know of student opportunities and check Handshake often. Below is a list of firms and local businesses that have regularly offered design internships or residencies:
 
@@ -128,7 +128,7 @@ There are also plenty of local industry opportunities in and around Spokane. Fol
 {% endtab %}
 {% endtabs %}
 
-### \#Fearless Away
+## \#Fearless Away
 
 While there are some opportunities locally, there are so many summer positions if you are willing to relocate. If you are concerned about cost, usually away opportunities are paid! No place to live? Thanks to the worldwide web there are numerous temporary housing options or services to connect you with someone in need of a sublet. The next section goes into detail with tips on securing a summer internship away from Spokane \(although the same tips can land you a local position too!\).
 
