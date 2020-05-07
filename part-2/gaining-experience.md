@@ -45,7 +45,7 @@ Congrats! Your application caught someone’s eye. When this happens, you will u
 
 Remember, this call is as much for you as it is for them. You want to make sure you will be compensated for the time you are spending and the skills you already have. Be confident and value yourself.
 
-![](../images/showcase-_page_11.jpg)
+![](../images/showcase3.jpg)
 
 ### Prepping For the Hot Seat
 
